@@ -47,4 +47,4 @@ def make_predictions(model , filename , classnames):
   plt.imshow(image)
   plt.title(f'Predicted class: {pred_class}')
 
-  plt.axis(False)s
+  plt.axis(False)
